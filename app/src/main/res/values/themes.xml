@@ -1,0 +1,10 @@
+<resources>
+    <style name="Theme.LaneCommand" parent="android:style/Theme.Material.Light.NoActionBar">
+        <item name="android:fontFamily">sans</item>
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <item name="android:navigationBarColor">#15243A</item>
+        <item name="android:windowLightNavigationBar">false</item>
+        <item name="android:colorAccent">#2B9CFF</item>
+    </style>
+</resources>
